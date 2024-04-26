@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Backend and mySQL<br>🔭 I’m currently working on a <a src="https://pupiportfoliotemplate.netlify.app/">portfolio template</a> <br>👨‍💻 All of my projects are available at [working on it!<br>📫 How to reach me _martinezequielgarcia495@gmail.com_</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Backend and mySQL<br>🔭 I’m currently working on a <a href="https://pupiportfoliotemplate.netlify.app/">portfolio template</a> <br>👨‍💻 All of my projects are available at [working on it!<br>📫 How to reach me <i>martinezequielgarcia495@gmail.com</i></p>
 
 ###
 
